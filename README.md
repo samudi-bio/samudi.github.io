@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # [Wassani P.L.S.] - Biotechnology Student
 
 ## About Me
