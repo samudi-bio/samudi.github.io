@@ -2,7 +2,7 @@
 
 ## About Me
 I am a passionate first-year Biotechnology student at Institute of Information Technology Sri Lanka. I am deeply interested in [mention 1-2 interests like:genetic engineering,microbiology. My goal is to contribute to innovative solutions in the healthcare industry through biotechnology
-(![WhatsApp Image 2025-08-07 at 22 08 00](https://github.com/user-attachments/assets/d1a93106-2960-4f9e-8ceb-3b62ede2c87c)
+![WhatsApp Image 2025-08-07 at 22 08 00](https://github.com/user-attachments/assets/d1a93106-2960-4f9e-8ceb-3b62ede2c87c)
 
 ## Education
 *BSc (Hons) in Biotechnology*
